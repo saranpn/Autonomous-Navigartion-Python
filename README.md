@@ -14,9 +14,9 @@ This course is based on the data (LiDAR and Encoder) collected from a robot with
         </p>
     </th>
     <th>
-      <p align="center">
-           <a href="https://https://github.com/saranpn/Autonomou-Navigartion-Python/blob/master/Feature%20based%20and%20Featureless%20localization/featureless_icp.gif"><img src="./Unit_B/featureless_icp.gif" alt="Overview" width="100%" height="100%"></a>
-           <br><a href="https://https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Feature%20based%20and%20Featureless%20localization" name="p1_code"> Feature based and Featureless localization </a>
+           <p align="center">
+           <a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Feature%20based%20and%20Featureless%20localization"><img src="./Feature%20based%20and%20Featureless%20localization/featureless_icp.gif" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Feature%20based%20and%20Featureless%20localization" name="p1_code">Feature based and Featureless localization </a>
         </p>
     </th>
     <th>
