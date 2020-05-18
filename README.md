@@ -21,8 +21,8 @@ This course is based on the data (LiDAR and Encoder) collected from a robot with
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Bayes%20Filter"><img src="./Bayes%20Filter/img_03_KF.gif/img_03_KF.gif" alt="Overview" width="100%" height="100%"></a>
-           <br><a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Bayes%20Filter" name="p1_code">Bayes Filter </a>        
+           <a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Bayes%20Filter"><img src="./Bayes%20Filter/img_03_KF.gif" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Bayes%20Filter" name="p1_code">Bayes Filter </a>
         </p>
     </th>
   </tr>
