@@ -34,8 +34,8 @@ This course is based on the data (LiDAR and Encoder) collected from a robot with
         </p>
     </th>
     <th>
-           <a href="https://github.com/saranpn/Autonomous-Driving/tree/master/Unit_F"><img src="./Unit_F/ekf_slam.gif" alt="Overview" width="100%" height="100%"></a>
-           <br><a href="https://github.com/saranpn/Autonomous-Driving/tree/master/Unit_F" name="p1_code">Unit_F: EKF SLAM </a>
+           <a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/EKF%20SLAM"><img src="./EKF%20SLAM/ekf_slam.gif" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/EKF%20SLAM" name="p1_code">EKF SLAM </a>
         </p>
     </th>
   </tr>
