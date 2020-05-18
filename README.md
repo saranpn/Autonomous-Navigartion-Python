@@ -9,7 +9,7 @@ This course is based on the data (LiDAR and Encoder) collected from a robot with
   <tr>
     <th>
       <p align="center">
-           <a href="https://https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Motion%20and%20Sensor%20Model"><img src="./Unit_A/robot_motion_model.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Motion%20and%20Sensor%20Model"><img src="./Motion%20and%20Sensor%20Model/robot_motion_model.gif" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/saranpn/Autonomou-Navigartion-Python/tree/master/Motion%20and%20Sensor%20Model" name="p1_code">Motion and Sensor Model </a>
         </p>
     </th>
