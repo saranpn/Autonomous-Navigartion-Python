@@ -34,13 +34,6 @@ This course is based on the data (LiDAR and Encoder) collected from a robot with
         </p>
     </th>
     <th>
-      <p align="center">
-           <a href="https://github.com/saranpn/Autonomous-Driving/tree/master/Unit_E"><img src="./Unit_E/particle_filter.gif" alt="Overview" width="100%" height="100%"></a>
-           <br><a href="https://github.com/saranpn/Autonomous-Driving/tree/master/Unit_E" name="p1_code">Unit_D: Particle Filter </a>
-        </p>
-    </th>
-    <th>
-      <p align="center">
            <a href="https://github.com/saranpn/Autonomous-Driving/tree/master/Unit_F"><img src="./Unit_F/ekf_slam.gif" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/saranpn/Autonomous-Driving/tree/master/Unit_F" name="p1_code">Unit_F: EKF SLAM </a>
         </p>
